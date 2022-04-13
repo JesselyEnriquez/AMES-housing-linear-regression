@@ -1,0 +1,38 @@
+num_of_applicants,acceptance_rate,tot_percentile25,tot_percentile75,pub_school_state
+20205,0.807,25,31,Alabama
+37302,0.591,23,31,Alabama
+3673,0.83,17,24,Alaska
+11756,0.531,27,33,Colorado
+28319,0.814,23,29,Colorado
+34886,0.488,26,31,Connecticut
+27691,0.624,25,30,Delaware
+58936,0.36,26,30,Florida
+36856,0.206,29,34,Georgia
+25928,0.826,22,29,Iowa
+8140,0.957,22,28,Kansas
+15093,0.931,23,29,Kansas
+19324,0.945,23,29,Kentucky
+12678,0.763,20,25,Maryland
+15371,0.881,21,29,Mississippi
+18269,0.663,22,30,Mississippi
+18948,0.778,23,29,Missouri
+6182,0.926,21,26,Montana
+18040,0.84,22,28,New Hampshire
+8123,0.637,25,30,New Jersey 
+4964,0.811,20,26,North Dakota
+24179,0.821,21,26,Ohio
+23296,0.731,24,29,Ohio
+15673,0.804,23,29,Oklahoma
+27358,0.816,22,28,Oregon
+21259,0.723,20,29,Rhode Island
+21764,0.788,24,30,Tennessee
+15381,0.814,19,26,Tennessee
+23583,0.811,19,25,Texas
+25393,0.65,22,27,Texas
+4676,0.453,24,30,Texas
+24404,0.621,22,29,Utah
+19233,0.673,26,31,Vermont 
+7204,0.719,22,27,Virginia
+19554,0.867,24,30,Virginia
+40839,0.239,30,34,Virginia
+18622,0.771,21,28,Virginia
