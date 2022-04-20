@@ -53,7 +53,7 @@ Conclusion
 
 Ultimately we are able to get a sense of what type of words to avoid there are various ways to build up this models capabilities that can be explored further but the conclusion can be made that there is a difference between political and conspiracy discourse. A more in depth sentiment analysis will likely be helpful for future politically centered clients.
 
-However for the preliminary exploration and purpose of this project, differentiating text between conspiracy and political discourse can be made from our final model.
+However for the preliminary exploration and purpose of this project, differentiating text between conspiracy and political discourse can be made from our final model.<br>
 ![](Visuals/count_vect_ukraine.png)       ![](Visuals/cnt_vect_top10_impact.png)
 
 Additional notes can be made from the model created we can see that there are some topics to be avoided such to have a more strengthening message to the general public. There are topics to address shown in our examination of top 25 words throughout our model iterations, where in our political discourse hot topics were those that contained 'Ukraine'. Another conclusion can be made for the events occurring in Afghanistan where these are frequent topics of discussion that appeared in our final examination process.
