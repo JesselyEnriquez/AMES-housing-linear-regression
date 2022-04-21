@@ -41,7 +41,7 @@ The cleaning process included various forms of removing nulls, urls, and punctua
 
 
 
-**Preprocessing and Modeling**
+**Preprocessing and Modeling** <br>
 For the purposes of the project two vectorizers were utilized and a couple of models were compared, Random Forest and Logistic Regression. however ultimately the model of interest was Logistic Regression because we could explore the most impactful words with this model results. However it is important to note that there are a variety of vectorizers and models to be explored in future steps for this project. These will be included and updated as time permits in the following weeks.
 
 **Model Evaluation and Basic Cleaning Results to Note**
