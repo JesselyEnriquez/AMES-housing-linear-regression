@@ -49,7 +49,7 @@ For the purposes of the project two vectorizers were utilized and a couple of mo
 When initially beginning this project the metrics of interest and evaluation methods were considered and the most appropriate metric appeared to be accuracy as well as consideration of misclassification percentages through confusion matrix examinations. Since the purpose of the project was to distinguish between two forms of communication no other metrics truly called to be extremely applicable other than accuracy. As a result of our data extraction and cleaning we ended up with a fairly balanced class of approximately 50% per subreddit.
 
 ---
-Conclusion
+## **Conclusion**
 
 Ultimately we are able to get a sense of what type of words to avoid there are various ways to build up this models capabilities that can be explored further but the conclusion can be made that there is a difference between political and conspiracy discourse. A more in depth sentiment analysis will likely be helpful for future politically centered clients.
 
@@ -59,6 +59,6 @@ However for the preliminary exploration and purpose of this project, differentia
 Additional notes can be made from the model created we can see that there are some topics to be avoided such to have a more strengthening message to the general public. There are topics to address shown in our examination of top 25 words throughout our model iterations, where in our political discourse hot topics were those that contained 'Ukraine'. Another conclusion can be made for the events occurring in Afghanistan where these are frequent topics of discussion that appeared in our final examination process.
 
 ---
-Future Recommendation's
+## **Future Recommendation's**
 
 More work could be done to improve this model however with the rise in fake news a very essential objective of any modern day political candidate would need to consider how they will not only improve their communications to improve their connections with the general public they hope to represent, but additional resources should be allocated to explore how we as a marketing strategy group could address this rising issue. So my recommendation is to look at the larger social media platforms and attempt to create a predictive model that campaign communications managers could utilize to gauge what audience their messaging appeals to or follows.
